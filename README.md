@@ -2,30 +2,30 @@
 Lecturer: Prof. Hung-yi Lee<br>
 Course website: http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
 ## Repo. content
-1. **Regression** 
+HW1 **Regression** 
 [[kaggle]](https://www.kaggle.com/c/ml2020spring-hw1).
 
-2. **Classification**
+HW2 **Classification**
 [[kaggle]](https://www.kaggle.com/c/ml2020spring-hw2).
 
-3. **CNN**
+HW3 **CNN**
 [[kaggle]](https://www.kaggle.com/c/ml2020spring-hw3).
 
-4. **RNN**
+HW4 **RNN**
 [[kaggle]](https://www.kaggle.com/c/ml2020spring-hw4).
 
-5. **Explainable AI**
+HW5 **Explainable AI**
 
-7. **Network Compression**
+HW7 **Network Compression**
 [[kaggle]](https://www.kaggle.com/c/ml2020spring-hw7).
 
-9. **Unsupervised Learning**
+HW9 **Unsupervised Learning**
 [[kaggle]](https://www.kaggle.com/c/ml2020spring-hw9).
 
-10. **Anomaly Detection**
+HW10 **Anomaly Detection**
 [[kaggle]](https://www.kaggle.com/c/ml2020spring-hw10).
 
-12. **Transfer Learning**
+HW12 **Transfer Learning**
 [[kaggle]](https://www.kaggle.com/c/ml2020spring-hw12).
 
-14. **Life-long Learning**
+HW14 **Life-long Learning**
